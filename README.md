@@ -33,4 +33,4 @@ A lightweight, client-side route planning application focused on Pakistan, allow
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/pak-maps.git
+   git clone https://github.com/Ahmadjamil888/pak-maps.git
