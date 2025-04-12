@@ -1,6 +1,6 @@
 # Pak Maps - Route Planner for Pakistan
 
-![Pak Maps Screenshot](screenshot.png) <!-- Add a screenshot later -->
+![Pak Maps Screenshot](https://raw.githubusercontent.com/Ahmadjamil888/pak-maps/refs/heads/main/Screenshot%20(28).png?token=GHSAT0AAAAAADAKD4E5WNR4BZBDV7LSK5SUZ72IKYQ) <!-- Add a screenshot later -->
 
 A lightweight, client-side route planning application focused on Pakistan, allowing users to get directions between major Pakistani cities using their own Google Maps API key.
 
